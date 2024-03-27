@@ -7,5 +7,6 @@
 <img src="ARDUINO_02.jpeg"> </img>
 <br>
 <h1>SEMAFORO COMPLETO COM VETOR E ALERTA</h1>
-                                          <br>
-                                          <img scr="SEMOK.PNG"> </img>
+<img src="SEMOK.PNG"> </img>
+                                        
+                                       
